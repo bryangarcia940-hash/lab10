@@ -2,11 +2,15 @@ body {
   font-family: Arial;
   margin: 40px;
   background-color:#3B60E4;
-  h1-color:#070600;
-  p-color:#F7F7FF;
   
 }
+h1 {
+  color: #070600; 
+}
 
+p {
+  color: #F7F7FF; 
+}
 header, footer {
   text-align: center;
   padding: 10px;
