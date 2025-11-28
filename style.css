@@ -11,6 +11,9 @@ h1 {
 p {
   color: #F7F7FF;
 }
+h2{
+  color:#58A4B0;
+}
 
 header, footer {
   text-align: center;
@@ -21,4 +24,5 @@ table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
   padding: 8px;
+  color:#310A31;
 }
